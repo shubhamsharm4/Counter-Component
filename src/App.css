@@ -40,5 +40,10 @@
 .Counter {
   text-align: center;
   align-items: center;
+  margin-bottom: 300px;
 }
 
+.like {
+  text-align: center;
+  align-items: center;
+}
