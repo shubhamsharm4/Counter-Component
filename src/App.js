@@ -1,14 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import CounterControl from './component/CounterControl'
-import LikeParentComponent from './component/LikeParentComponent';
+import ThemeChanger from './component/ThemeChanger';
 
 function App() {
   return (
     <>
-      <CounterControl/>
-      <LikeParentComponent/>
+      <ThemeChanger/>
     </>
   );
 }
